@@ -44,7 +44,7 @@ I am actively seeking opportunities to contribute to:
 * Pharma/Biotech decision-analysis projects.
 * Market access and health-econ modeling.
 
-> **Fun Fact:** I’m intentionally moving away from the "wet lab" and "routine pipelines" to focus on the high-stakes decisions that determine if a drug ever reaches a patient.
+> **Fun Fact:** I’m a "bilingual" thinker—I speak fluent Biotech and fluent Business. I’m moving towards what data actually means for a company’s future.
 
 ---
 
