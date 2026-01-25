@@ -11,8 +11,6 @@
 I work at the intersection of **life sciences, data analysis, and decision support**.  
 My focus is on building **analytical frameworks that help inform strategic and operational decisions** in pharma, biotech, and healthcare — especially under scientific and market uncertainty.
 
-I am positioning for **internship and entry-level roles** in healthcare analytics, life-science consulting support, strategy teams, and market/portfolio analysis functions.
-
 ---
 
 ## 🧠 What I Actually Do
@@ -32,11 +30,6 @@ I am positioning for **internship and entry-level roles** in healthcare analytic
 - Risk vs. reward comparisons under uncertainty
 - Assumption-driven modeling
 
-### Life Science & Healthcare Context
-- Drug development lifecycle understanding
-- Clinical trial logic and probability of success
-- Therapeutic area and disease landscape analysis
-- Regulatory and market access fundamentals (EMA / AMNOG awareness)
 
 ### Technical & Tooling
 - Python (data analysis, logic, prototyping)
@@ -64,19 +57,7 @@ I am positioning for **internship and entry-level roles** in healthcare analytic
 - Bioinformatics pipelines and data workflows
 - Integration of biological data with downstream interpretation
 
-> All projects are **analytical and educational** in nature and designed to demonstrate structured thinking, not real-world decision authority.
 
----
-
-## 🧭 Target Roles (Realistic)
-
-- Healthcare / Life Science Analyst (Intern / Working Student)
-- Strategy or Consulting Intern (Healthcare-focused teams)
-- Market Access / Portfolio Analytics Intern
-- Digital Health or Pharma Operations Analyst
-- Decision-support roles adjacent to R&D, not bench research
-
----
 
 ## 🎓 Education
 
@@ -88,14 +69,5 @@ I am positioning for **internship and entry-level roles** in healthcare analytic
 - Molecular biology, genetics, biochemistry
 - Strong foundation in life sciences
 
----
 
-## 🔍 Positioning Summary
-
-- Not pure R&D  
-- Not pure software engineering  
-- Strong in **analysis + life science context**
-- Best fit for roles that **support decisions**, not make them
-
-I am intentionally building toward **industry-facing, analytical roles** where scientific understanding and structured reasoning matter.
 
