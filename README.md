@@ -1,54 +1,101 @@
-# 🚀 Nishant Thalwal
-**Bridging Life Science Intelligence & Business Strategy** *M.S. Life Science Informatics | B.Tech Biotechnology*
+# 🚀 Nishant Thalwal  
+**Life Science Informatics | Decision Support for Pharma & Healthcare**  
+*M.Sc. Life Science Informatics | B.Tech Biotechnology*
 
-[LinkedIn](your-linkedin-url) • [Email](mailto:your-university-email) • [Portfolio](#)
-
----
-
-### 🎯 The Mission
-I translate **scientific uncertainty into business clarity**. With a foundation in biotechnology and data informatics, I build frameworks to answer the most critical question in pharma and biotech: **"What should the company do next?"**
-
-I am transitioning from technical execution to **decision-facing roles** in consulting, portfolio strategy, and market access.
+[LinkedIn](https://www.linkedin.com/in/nishant-thalwal/) • [GitHub](https://github.com/Nishant808) • [Portfolio](#)
 
 ---
 
-### 🛠️ Strategic Toolkit
+## 🎯 Professional Focus
 
-| **Analytical Reasoning** | **Business & Strategy** | **Technical Stack** |
-| :--- | :--- | :--- |
-| MECE Problem Structuring | R&D Portfolio Prioritization | SQL & Python (Data Logic) |
-| Decision Trees & Trade-offs | Drug Development Economics | Excel (Financial Modeling) |
-| Risk-Adjusted Value Models | Market Access & Reimbursement | PowerPoint (Exec Comms) |
+I work at the intersection of **life sciences, data analysis, and decision support**.  
+My focus is on building **analytical frameworks that help inform strategic and operational decisions** in pharma, biotech, and healthcare — especially under scientific and market uncertainty.
 
----
-
-### 🧪 Focus Areas
-* **Consulting & Strategy:** Navigating complex pharma landscapes and competitive dynamics.
-* **Capital Allocation:** Optimizing R&D spend across therapeutic areas under clinical uncertainty.
-* **Regulatory Logic:** Aligning scientific development with market access and reimbursement constraints.
-* **Decision Frameworks:** Building models where the **decision** dictates the **execution**, not the other way around.
+I am positioning for **internship and entry-level roles** in healthcare analytics, life-science consulting support, strategy teams, and market/portfolio analysis functions.
 
 ---
 
-### 📂 High-Impact Projects
-* **Clinical Portfolio Prioritization:** Quantitative models to rank R&D assets based on probability of success ($PoS$) and $NPV$.
-* **Pharma Landscape Analysis:** Competitive intelligence briefs for specific therapeutic areas.
-* **Decision Briefs:** Translating complex biological data into actionable executive recommendations.
-* **Healthcare Economics:** Case studies on market entry and reimbursement pathways (AMNOG/EMA/FDA).
+## 🧠 What I Actually Do
+
+* Translate biological and clinical complexity into **structured analytical insights**
+* Support decision-making with **quantitative models, comparisons, and trade-off analysis**
+* Bridge **scientific context** with **business-oriented reasoning**
+* Communicate results clearly for non-technical stakeholders
 
 ---
 
-### 🤝 Let’s Collaborate
-I am actively seeking opportunities to contribute to:
-* Life-science strategy or consulting case studies.
-* Pharma/Biotech decision-analysis projects.
-* Market access and health-econ modeling.
+## 🛠️ Core Skill Set
 
-> **Fun Fact:** I’m a "bilingual" thinker—I speak fluent Biotech and fluent Business. I’m moving towards what data actually means for a company’s future.
+### Analytical & Problem Structuring
+- Structured problem decomposition (MECE-style thinking)
+- Decision trees and scenario analysis
+- Risk vs. reward comparisons under uncertainty
+- Assumption-driven modeling
+
+### Life Science & Healthcare Context
+- Drug development lifecycle understanding
+- Clinical trial logic and probability of success
+- Therapeutic area and disease landscape analysis
+- Regulatory and market access fundamentals (EMA / AMNOG awareness)
+
+### Technical & Tooling
+- Python (data analysis, logic, prototyping)
+- SQL (data querying and structuring)
+- Excel (financial and analytical models)
+- PowerPoint (clear, structured communication)
+- Basic ML & statistics for biomedical data
 
 ---
 
-### 🎓 Background Summary
-* **M.S. Life Science Informatics** – Germany (Current)
-* **B.Tech Biotechnology** – India
-* **Focus:** Transitioning from data execution to **Strategic Decision Support**.
+## 📂 Representative Projects
+
+### 🔬 R&D Decision Support (Simulated / Academic)
+- **Clinical Portfolio Evaluation**  
+  Comparative analysis of hypothetical R&D assets using probability of success, timelines, and value drivers.
+
+- **Capital Allocation Under Clinical Uncertainty**  
+  Analytical framework to compare investment trade-offs across therapeutic areas (e.g., obesity & cardiometabolic disease).
+
+- **Pharma Landscape Briefs**  
+  Structured competitive and market overviews for selected therapeutic areas.
+
+### 📊 Data & Informatics
+- RNA-seq and transcriptomics analysis (academic projects)
+- Bioinformatics pipelines and data workflows
+- Integration of biological data with downstream interpretation
+
+> All projects are **analytical and educational** in nature and designed to demonstrate structured thinking, not real-world decision authority.
+
+---
+
+## 🧭 Target Roles (Realistic)
+
+- Healthcare / Life Science Analyst (Intern / Working Student)
+- Strategy or Consulting Intern (Healthcare-focused teams)
+- Market Access / Portfolio Analytics Intern
+- Digital Health or Pharma Operations Analyst
+- Decision-support roles adjacent to R&D, not bench research
+
+---
+
+## 🎓 Education
+
+**M.Sc. Life Science Informatics** — Germany  
+- Bioinformatics, biostatistics, data mining, ML
+- Biomedical data analysis and scientific computing
+
+**B.Tech Biotechnology** — India  
+- Molecular biology, genetics, biochemistry
+- Strong foundation in life sciences
+
+---
+
+## 🔍 Positioning Summary
+
+- Not pure R&D  
+- Not pure software engineering  
+- Strong in **analysis + life science context**
+- Best fit for roles that **support decisions**, not make them
+
+I am intentionally building toward **industry-facing, analytical roles** where scientific understanding and structured reasoning matter.
+
