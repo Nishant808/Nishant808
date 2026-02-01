@@ -1,73 +1,112 @@
-# 🚀 Nishant Thalwal  
-**Life Science Informatics | Decision Support for Pharma & Healthcare**  
-*M.Sc. Life Science Informatics | B.Tech Biotechnology*
+# 🚀 Nishant Thalwal
 
-[LinkedIn](https://www.linkedin.com/in/nishant-thalwal/) • [GitHub](https://github.com/Nishant808) • [Portfolio](#)
+**Life Science Informatics | Analytics & Decision Support in Healthcare & Pharma**  
+*M.Sc. Life Science Informatics (TH Deggendorf) | B.Tech Biotechnology*  
+
+[nishant.thalwal@stud.th-deg.de](mailto:nishant.thalwal@stud.th-deg.de) | (+49) 1637109445 | [LinkedIn](https://www.linkedin.com/in/nishant-thalwal/) | [GitHub](https://github.com/Nishant808) | [Portfolio](#)  
 
 ---
 
 ## 🎯 Professional Focus
+At the intersection of **life sciences, data analysis, and strategic decision-making**.  
+I build analytical tools and frameworks to support informed choices in pharma, biotech, and healthcare — focusing on uncertainty, trade-offs, and real-world impact.  
 
-I work at the intersection of **life sciences, data analysis, and decision support**.  
-My focus is on building **analytical frameworks that help inform strategic and operational decisions** in pharma, biotech, and healthcare — especially under scientific and market uncertainty.
-
----
-
-## 🧠 What I Actually Do
-
-* Translate biological and clinical complexity into **structured analytical insights**
-* Support decision-making with **quantitative models, comparisons, and trade-off analysis**
-* Bridge **scientific context** with **business-oriented reasoning**
-* Communicate results clearly for non-technical stakeholders
+Shifting from pure research toward **applied analytics, portfolio strategy, and business-facing roles**.  
 
 ---
 
-## 🛠️ Core Skill Set
-
-### Analytical & Problem Structuring
-- Structured problem decomposition (MECE-style thinking)
-- Decision trees and scenario analysis
-- Risk vs. reward comparisons under uncertainty
-- Assumption-driven modeling
-
-
-### Technical & Tooling
-- Python (data analysis, logic, prototyping)
-- SQL (data querying and structuring)
-- Excel (financial and analytical models)
-- PowerPoint (clear, structured communication)
-- Basic ML & statistics for biomedical data
+## 🧠 What I Bring
+- **Analytical Thinking**: Decompose complex problems, model scenarios, evaluate risks/rewards, and structure decisions (e.g., MECE frameworks, decision trees).  
+- **Data Translation**: Turn biological/clinical data into actionable insights for non-technical stakeholders.  
+- **Tool-Building**: Prototype pipelines and dashboards to automate analysis and support strategy.  
+- **Communication**: Deliver clear, structured reports and visuals for cross-functional teams.  
 
 ---
 
-## 📂 Representative Projects
+## 🛠️ Core Skills
+### Analytical & Problem-Solving
+- Structured frameworks (decision trees, scenario analysis, risk assessment)  
+- Quantitative modeling under uncertainty  
+- Biostatistics & data interpretation  
 
-### 🔬 R&D Decision Support (Simulated / Academic)
-- **Clinical Portfolio Evaluation**  
-  Comparative analysis of hypothetical R&D assets using probability of success, timelines, and value drivers.
+### Technical
+- **Programming**: Python (Pandas, NumPy, Biopython), R (DESeq2, ggplot2), SQL  
+- **ML & Data**: TensorFlow, differential expression analysis, pathway enrichment  
+- **Workflows**: Bash/Shell, Snakemake, Docker  
+- **Visualization**: Plotly (Dashboards), Matplotlib  
+- **Other**: Excel (modeling), Unix/Linux  
 
-- **Capital Allocation Under Clinical Uncertainty**  
-  Analytical framework to compare investment trade-offs across therapeutic areas (e.g., obesity & cardiometabolic disease).
+---
 
-- **Pharma Landscape Briefs**  
-  Structured competitive and market overviews for selected therapeutic areas.
+## 📂 Key Projects
+### 🔬 Bioinformatics & Data Analysis
+**NetFragile – Biological Network Robustness Simulator**  
+- Built Dash/Plotly web app with STRING API integration for real PPI network retrieval and NetworkX for centrality analysis.  
+- Simulated random vs. targeted attacks, showing mycothiol pathway in *M. tuberculosis* collapses dramatically faster under hub targeting (LCC <20% after ~10–15% removal vs. >70% after 30% random).  
+[GitHub](https://github.com/your-repo/netfragile)  
 
-### 📊 Data & Informatics
-- RNA-seq and transcriptomics analysis (academic projects)
-- Bioinformatics pipelines and data workflows
-- Integration of biological data with downstream interpretation
+**BioStreamline – GenBank File Analysis Pipeline**  
+- Modular Python (Biopython) pipeline to automate sequence retrieval, feature extraction, and GC/content analysis.  
+- Generated interactive Plotly plots for streamlined insights into distributions (CDS length, exons).  
+[GitHub](https://github.com/your-repo/biostreamline)  
 
+**RNA-seq Analysis (LUAD)**  
+- Analyzed 539 TCGA samples with TensorFlow/SHAP for biomarker identification; KEGG/GO enrichment confirmed 400x overrepresentation in lipid metabolism/immune signaling (FDR<0.05).  
+[GitHub](https://github.com/your-repo/luad-analysis)  
 
+### 📊 Analytics & Decision Support
+**Strategic Data Modeling – Imbalanced Classification**  
+- Optimized model to solve "Accuracy Trap," improving F1-score by 0.65 via Cost Complexity Pruning (CCP).  
+[GitHub](https://github.com/your-repo/imbalanced-classification)  
+
+**CreditWise – Loan Approval Prediction**  
+- End-to-end ML pipeline on 1,000 records: EDA, feature engineering, Gaussian Naive Bayes (86% accuracy, 75% F1).  
+[GitHub](https://github.com/your-repo/creditwise)  
+
+**Automated Reporting Pipeline**  
+- Modular Python scripts for data extraction/analysis; delivered interactive Plotly dashboards for decision support.  
+[GitHub](https://github.com/your-repo/automated-pipeline)  
+
+---
+
+## 💼 Experience
+**Intern – Drepto Biodevices, IIT Bombay** | May–July 2025  
+- Supported medical device R&D with technical modeling and structured design documentation across prototyping stages.  
+- Gained exposure to startup innovation and real-world biotech constraints.  
+
+**Intern – ArrayGen Technologies** | Nov 2024–Feb 2025  
+- Analyzed large-scale biomedical datasets (539 samples) using Python/TensorFlow to identify biomarker patterns.  
+- Built analytical visualizations for pathway enrichment (lipid metabolism, immune signaling).  
+
+---
 
 ## 🎓 Education
+**M.Sc. Life Science Informatics** | TH Deggendorf, Germany | Oct 2025–Present  
+- Focus: Computational analysis, data-driven biology, informatics in life sciences.  
 
-**M.Sc. Life Science Informatics** — Germany  
-- Bioinformatics, biostatistics, data mining, ML
-- Biomedical data analysis and scientific computing
+**B.Tech Biotechnology** | VNMKV, India | Jul 2021–Jul 2025  
+- GPA: 8.7/10 (Indian) | 1.7 (German scale)  
+- Core: Molecular biology, genetics, bioinformatics, biostatistics.  
 
-**B.Tech Biotechnology** — India  
-- Molecular biology, genetics, biochemistry
-- Strong foundation in life sciences
+---
 
+## 🌐 Languages & Interests
+**Languages**  
+- English: C1  
+- German: A2 (actively improving)  
 
+**Interests**  
+- Drug development & precision medicine  
+- Pharma R&D capital allocation  
+- Biotech + economics/finance  
+- Healthcare startups & VC  
+- Badminton (discipline & consistency)  
 
+---
+
+## 📝 Publications
+- Research paper in IJIRST: Demonstrated structured research, formal writing, and project completion.  
+
+---
+
+*Open to opportunities in life science consulting, healthcare VC/analysis, biotech strategy, or health-tech startups. Let's connect!*
