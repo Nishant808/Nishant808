@@ -43,29 +43,26 @@ Shifting from pure research toward **applied analytics, portfolio strategy, and 
 **NetFragile – Biological Network Robustness Simulator**  
 - Built Dash/Plotly web app with STRING API integration for real PPI network retrieval and NetworkX for centrality analysis.  
 - Simulated random vs. targeted attacks, showing mycothiol pathway in *M. tuberculosis* collapses dramatically faster under hub targeting (LCC <20% after ~10–15% removal vs. >70% after 30% random).  
-[GitHub](https://github.com/your-repo/netfragile)  
+[GitHub](https://github.com/Nishant808/NetFragile)  
 
 **BioStreamline – GenBank File Analysis Pipeline**  
 - Modular Python (Biopython) pipeline to automate sequence retrieval, feature extraction, and GC/content analysis.  
 - Generated interactive Plotly plots for streamlined insights into distributions (CDS length, exons).  
-[GitHub](https://github.com/your-repo/biostreamline)  
+[GitHub](https://github.com/Nishant808/BioStreamline)  
 
 **RNA-seq Analysis (LUAD)**  
 - Analyzed 539 TCGA samples with TensorFlow/SHAP for biomarker identification; KEGG/GO enrichment confirmed 400x overrepresentation in lipid metabolism/immune signaling (FDR<0.05).  
-[GitHub](https://github.com/your-repo/luad-analysis)  
+[GitHub](https://github.com/Nishant808/LUAD-DEG)  
 
 ### 📊 Analytics & Decision Support
 **Strategic Data Modeling – Imbalanced Classification**  
 - Optimized model to solve "Accuracy Trap," improving F1-score by 0.65 via Cost Complexity Pruning (CCP).  
-[GitHub](https://github.com/your-repo/imbalanced-classification)  
+[GitHub](https://github.com/Nishant808/Imbalanced-Classification-Decision-Tree)  
 
 **CreditWise – Loan Approval Prediction**  
 - End-to-end ML pipeline on 1,000 records: EDA, feature engineering, Gaussian Naive Bayes (86% accuracy, 75% F1).  
-[GitHub](https://github.com/your-repo/creditwise)  
+[GitHub](https://github.com/Nishant808/Credit_Wise)  
 
-**Automated Reporting Pipeline**  
-- Modular Python scripts for data extraction/analysis; delivered interactive Plotly dashboards for decision support.  
-[GitHub](https://github.com/your-repo/automated-pipeline)  
 
 ---
 
