@@ -3,7 +3,7 @@
 **Life Science Informatics | Analytics & Decision Support in Healthcare & Pharma**  
 *M.Sc. Life Science Informatics (TH Deggendorf) | B.Tech Biotechnology*  
 
-[nishant.thalwal@stud.th-deg.de](mailto:nishant.thalwal@stud.th-deg.de)  | [LinkedIn](https://www.linkedin.com/in/nishant-thalwal/) | [GitHub](https://github.com/Nishant808) | [Portfolio](#)  
+[nishant.thalwal@stud.th-deg.de](mailto:nishant.thalwal@stud.th-deg.de)  | [LinkedIn](https://www.linkedin.com/in/nishant-thalwal/) | [GitHub](https://github.com/Nishant808) | [Portfolio](https://nishant-thalwal.lovable.app)  
 
 ---
 
