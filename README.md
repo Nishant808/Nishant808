@@ -101,9 +101,3 @@ Shifting from pure research toward **applied analytics, portfolio strategy, and 
 
 ---
 
-## 📝 Publications
-- Research paper in IJIRST: Demonstrated structured research, formal writing, and project completion.  
-
----
-
-*Open to opportunities in life science consulting, healthcare VC/analysis, biotech strategy, or health-tech startups. Let's connect!*
