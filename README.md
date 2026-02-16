@@ -1,103 +1,87 @@
-# 🚀 Nishant Thalwal
+# Nishant Thalwal
 
-**Life Science Informatics | Analytics & Decision Support in Healthcare & Pharma**  
-*M.Sc. Life Science Informatics (TH Deggendorf) | B.Tech Biotechnology*  
+**Life Science Informatics | Biotech Strategy & R&D** |
 
-[nishant.thalwal@stud.th-deg.de](mailto:nishant.thalwal@stud.th-deg.de)  | [LinkedIn](https://www.linkedin.com/in/nishant-thalwal/) | [GitHub](https://github.com/Nishant808) | [Portfolio](https://nishant-thalwal.lovable.app)  
+Deggendorf, Germany
 
----
-
-## 🎯 Professional Focus
-At the intersection of **life sciences, data analysis, and strategic decision-making**.  
-I build analytical tools and frameworks to support informed choices in pharma, biotech, and healthcare — focusing on uncertainty, trade-offs, and real-world impact.  
-
-Shifting from pure research toward **applied analytics, portfolio strategy, and business-facing roles**.  
+[E-mail](mailto:nishant.thalwal@stud.th-deg.de) | [LinkedIn](https://www.linkedin.com/in/nishant-thalwal/) | [GitHub](https://github.com/Nishant808) | [Portfolio](https://nishant-thalwal.lovable.app)
 
 ---
 
-## 🧠 What I Bring
-- **Analytical Thinking**: Decompose complex problems, model scenarios, evaluate risks/rewards, and structure decisions (e.g., MECE frameworks, decision trees).  
-- **Data Translation**: Turn biological/clinical data into actionable insights for non-technical stakeholders.  
-- **Tool-Building**: Prototype pipelines and dashboards to automate analysis and support strategy.  
-- **Communication**: Deliver clear, structured reports and visuals for cross-functional teams.  
+### 🎯 Professional Profile
+
+**Biotech Analyst & Data Strategist** bridging the gap between biological data and business decision-making. I combine Biology & Informatics with Finance to support high-impact strategic choices in Pharma and VC.
 
 ---
 
-## 🛠️ Core Skills
-### Analytical & Problem-Solving
-- Structured frameworks (decision trees, scenario analysis, risk assessment)  
-- Quantitative modeling under uncertainty  
-- Biostatistics & data interpretation  
+### 🛠️ Core Competencies
 
-### Technical
-- **Programming**: Python (Pandas, NumPy, Biopython), R (DESeq2, ggplot2), SQL  
-- **ML & Data**: TensorFlow, differential expression analysis, pathway enrichment  
-- **Workflows**: Bash/Shell, Snakemake, Docker  
-- **Visualization**: Plotly (Dashboards), Matplotlib  
-- **Other**: Excel (modeling), Unix/Linux  
+* **Strategic Analysis:** R&D Portfolio Optimization, Capital Allocation, Technical Due Diligence, Risk-Adjusted Valuation (rNPV), Scenario Modeling.
+* **Data Science:** Python (Pandas, NumPy, Scikit-learn), Integer Linear Programming (Optimization), SQL, TensorFlow.
+* **Bioinformatics:** Clinical Trial Analysis (NCT Data), Pathway Enrichment, Differential Expression (DESeq2), Network Analysis.
+* **Tools:** Plotly/Dash, Docker, Snakemake, Excel (Financial Modeling).
 
 ---
 
-## 📂 Key Projects
-### 🔬 Bioinformatics & Data Analysis
-**NetFragile – Biological Network Robustness Simulator**  
-- Built Dash/Plotly web app with STRING API integration for real PPI network retrieval and NetworkX for centrality analysis.  
-- Simulated random vs. targeted attacks, showing mycothiol pathway in *M. tuberculosis* collapses dramatically faster under hub targeting (LCC <20% after ~10–15% removal vs. >70% after 30% random).  
-[GitHub](https://github.com/Nishant808/NetFragile)  
+### 🚀 Strategic Projects (Featured)
 
-**BioStreamline – GenBank File Analysis Pipeline**  
-- Modular Python (Biopython) pipeline to automate sequence retrieval, feature extraction, and GC/content analysis.  
-- Generated interactive Plotly plots for streamlined insights into distributions (CDS length, exons).  
-[GitHub](https://github.com/Nishant808/BioStreamline)  
+**Strategic R&D Portfolio Optimization (Pharma Capital Allocation)** | *Python, ILP, DCF Modeling*
+*Engineered a quantitative decision-support framework to allocate a theoretical **€500M fund** across global oncology assets.*
 
-**RNA-seq Analysis (LUAD)**  
-- Analyzed 539 TCGA samples with TensorFlow/SHAP for biomarker identification; KEGG/GO enrichment confirmed 400x overrepresentation in lipid metabolism/immune signaling (FDR<0.05).  
-[GitHub](https://github.com/Nishant808/LUAD-DEG)  
+* **Capital Efficiency:** Processed **400,000+ clinical trial records** to isolate a high-signal "Investable Universe," utilizing **Integer Linear Programming (ILP)** to solve for maximum portfolio NPV under strict budget constraints.
+* **Risk Pricing:** Applied a **Discounted Cash Flow (DCF)** model using industry-standard cumulative success probabilities (~10% Phase 1 to ~60% Phase 3) to value assets based on clinical maturity.
+* **Technical Due Diligence:** Identified and corrected an "Enrollment Arbitrage" data anomaly where observational screening studies were misclassified as high-value therapeutic assets, implementing semantic filters to **de-risk the portfolio** and secure a valid **140% risk-adjusted ROI**.
 
-### 📊 Analytics & Decision Support
-**Strategic Data Modeling – Imbalanced Classification**  
-- Optimized model to solve "Accuracy Trap," improving F1-score by 0.65 via Cost Complexity Pruning (CCP).  
-[GitHub](https://github.com/Nishant808/Imbalanced-Classification-Decision-Tree)  
+**CreditWise – Loan Risk Prediction** | *Machine Learning, Financial Risk*
 
-**CreditWise – Loan Approval Prediction**  
-- End-to-end ML pipeline on 1,000 records: EDA, feature engineering, Gaussian Naive Bayes (86% accuracy, 75% F1).  
-[GitHub](https://github.com/Nishant808/Credit_Wise)  
-
+* Developed an end-to-end risk assessment pipeline using Gaussian Naive Bayes to predict loan defaults.
+* Achieved **86% accuracy** in identifying high-risk profiles, demonstrating transferability of risk modeling from finance to biotech scenarios.
 
 ---
 
-## 💼 Experience
-**Intern – Drepto Biodevices, IIT Bombay** | May–July 2025  
-- Supported medical device R&D with technical modeling and structured design documentation across prototyping stages.  
-- Gained exposure to startup innovation and real-world biotech constraints.  
+### 🔬 Technical & Research Projects
 
-**Intern – ArrayGen Technologies** | Nov 2024–Feb 2025  
-- Analyzed large-scale biomedical datasets (539 samples) using Python/TensorFlow to identify biomarker patterns.  
-- Built analytical visualizations for pathway enrichment (lipid metabolism, immune signaling).  
+**NetFragile – Biological Network Robustness Simulator** | *NetworkX, Plotly*
 
----
+* Simulated targeted attacks on PPI networks to model drug efficacy; demonstrated that targeting "Hub" proteins collapses the *M. tuberculosis* network **3x faster** than random attacks.
+* Built an interactive Dash web app for real-time visualization of network resilience.
 
-## 🎓 Education
-**M.Sc. Life Science Informatics** | TH Deggendorf, Germany | Oct 2025–Present  
-- Focus: Computational analysis, data-driven biology, informatics in life sciences.  
+**RNA-seq Analysis (LUAD Biomarker Discovery)** | *TensorFlow, SHAP*
 
-**B.Tech Biotechnology** | VNMKV, India | Jul 2021–Jul 2025  
-- GPA: 8.7/10 (Indian) | 1.7 (German scale)  
-- Core: Molecular biology, genetics, bioinformatics, biostatistics.  
+* Analyzed **539 TCGA samples** to identify lung adenocarcinoma biomarkers.
+* Validated findings via KEGG/GO enrichment, confirming a **400x overrepresentation** in lipid metabolism pathways, translating complex genomic data into clear clinical insights.
 
 ---
 
-## 🌐 Languages & Interests
-**Languages**  
-- English: C1  
-- German: A2 (actively improving)  
+### 💼 Professional Experience
 
-**Interests**  
-- Drug development & precision medicine  
-- Pharma R&D capital allocation  
-- Biotech + economics/finance  
-- Healthcare startups & VC  
-- Badminton (discipline & consistency)  
+**R&D Intern** | **Drepto Biodevices (IIT Bombay)** | *May 2025 – July 2025*
+
+* Contributed to the prototyping and technical documentation of novel medical devices in a high-velocity startup environment.
+* Modeled design constraints to support R&D feasibility decisions, gaining direct exposure to the **concept-to-prototype lifecycle**.
+
+**Bioinformatics Intern** | **ArrayGen Technologies** | *Nov 2024 – Feb 2025*
+
+* Executed large-scale transcriptomic analysis on 500+ patient samples to isolate immune signaling patterns.
+* Delivered actionable data visualizations to senior technical stakeholders to guide research focus.
 
 ---
 
+### 🎓 Education
+
+**M.Sc. Life Science Informatics** | TH Deggendorf, Germany | *Oct 2025 – Present*
+
+* *Focus:* Data-Driven Decision Support, Computational Biology, Algorithm Design.
+
+**B.Tech Biotechnology** | VNMKV, India | *Jul 2021 – Jul 2025*
+
+* *Performance:* 1.7 (German Scale) / 8.7 GPA.
+
+---
+
+### 🌐 Languages & Interests
+
+* **Languages:** English (C1 - Professional), German (B1).
+* **Interests:** Venture Capital in Biotech, Drug Development Economics, Badminton.
+
+---
