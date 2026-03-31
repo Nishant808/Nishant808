@@ -16,16 +16,16 @@ Currently targeting bioprocess data science, bioinformatics, and biomedical ML r
 
 ## Featured Projects
 
-**[CNN vs RNN — Comparative Architecture Study](https://github.com/Nishant808)** · Python, PyTorch, Torchvision  
+**[CNN vs RNN — Comparative Architecture Study](https://github.com/Nishant808/Deep-MNIST-Vision)** · Python, PyTorch, Torchvision  
 Implemented and benchmarked independent CNN and RNN architectures for image classification in PyTorch. Both achieved 99% test accuracy on MNIST with full confusion matrix and per-class classification report analysis. Actively developing CNN proficiency toward biomedical image analysis applications.
 
-**[NetFragile](https://github.com/Nishant808/netfragile)** · Python, NetworkX, Plotly/Dash  
+**[NetFragile](https://github.com/Nishant808/NetFragile)** · Python, NetworkX, Plotly/Dash  
 Biological network robustness simulator. Models targeted vs. random attack strategies on PPI networks. Demonstrated hub-targeting collapses the *M. tuberculosis* network 3× faster than random removal. Interactive Dash web app for real-time resilience visualization.
 
-**[LUAD Biomarker Discovery](https://github.com/Nishant808/luad-rnaseq)** · Python, DESeq2, TensorFlow, SHAP  
+**[LUAD Biomarker Discovery](https://github.com/Nishant808/LUAD-DEG)** · Python, DESeq2, TensorFlow, SHAP  
 RNA-seq analysis on 539 TCGA lung adenocarcinoma samples. Identified candidate biomarkers via differential expression and deep learning feature importance. KEGG/GO enrichment confirmed 400× overrepresentation in lipid metabolism pathways.
 
-**[R&D Portfolio Optimization](https://github.com/Nishant808/rd-portfolio-optimizer)** · Python, ILP, DCF Modeling  
+**[R&D Portfolio Optimization](https://github.com/Nishant808/Bio-Capital)** · Python, ILP, DCF Modeling  
 Quantitative decision-support framework for oncology asset allocation across 400,000+ clinical trial records. Applies Integer Linear Programming to maximize risk-adjusted NPV. Includes anomaly detection layer that corrected an enrollment arbitrage misclassification, achieving 140% risk-adjusted ROI in simulation.
 
 ---
