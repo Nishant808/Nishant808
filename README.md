@@ -36,8 +36,8 @@ Interactive web application simulating targeted vs. random attacks on protein-pr
 |---|---|
 | Languages | Python, R, SQL |
 | Deep Learning | PyTorch, TensorFlow, LSTM, GRU, CNN, RNN, SHAP |
-| Bioinformatics | DESeq2, Bioconductor, KEGG/GO, NetworkX, Snakemake |
-| Data Science | Scikit-learn, Pandas, NumPy, ILP, DCF Modelling |
+| Bioinformatics | DESeq2, Bioconductor, KEGG/GO, NetworkX, Snakemake, STRING |
+| Data Science | Scikit-learn, Pandas, NumPy, Statistical Analysis |
 | Visualization | Plotly, Dash, Streamlit, Matplotlib, Seaborn |
 | Infrastructure | Docker, Git, Jupyter |
 
