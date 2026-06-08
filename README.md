@@ -8,7 +8,7 @@ Computational Biology | Biomedical Data Science | ML for Pharma & Digital Health
 
 ## About
 
-I build ML pipelines and computational analysis tools at the intersection of biology, deep learning, and clinical data. My work spans transcriptomics, biological network modelling, and quantitative decision support — with a growing focus on time-series deep learning and image analysis for bioprocess and biomedical applications.
+I build ML pipelines and computational analysis tools at the intersection of biology, deep learning, and clinical data. My work spans transcriptomics, biological network modelling, and quantitative bioprocess analytics.
 
 Currently targeting bioprocess data science, bioinformatics, and biomedical ML roles in pharma and digital health in Germany.
 
@@ -16,17 +16,17 @@ Currently targeting bioprocess data science, bioinformatics, and biomedical ML r
 
 ## Featured Projects
 
-**[CNN vs RNN — Comparative Architecture Study](https://github.com/Nishant808/Deep-MNIST-Vision)** · Python, PyTorch, Torchvision  
-Implemented and benchmarked independent CNN and RNN architectures for image classification in PyTorch. Both achieved 99% test accuracy on MNIST with full confusion matrix and per-class classification report analysis. Actively developing CNN proficiency toward biomedical image analysis applications.
+**[Bioprocess Digital Twin — Temporal Glucose Prediction with LSTM](https://github.com/Nishant808/Bioprocess-Digital-Twin-Temporal-Glucose-Prediction-with-LSTM)** · Python, PyTorch, Scikit-learn  
+Deep learning pipeline for bioreactor monitoring. LSTM model predicts glucose concentration from real-time sensor data (DO, pH, temperature). Includes systematic optimization experiments, MPS hardware acceleration, and failure surface mapping for bioprocess regression tasks.
 
-**[NetFragile](https://github.com/Nishant808/NetFragile)** · Python, NetworkX, Plotly/Dash  
-Biological network robustness simulator. Models targeted vs. random attack strategies on PPI networks. Demonstrated hub-targeting collapses the *M. tuberculosis* network 3× faster than random removal. Interactive Dash web app for real-time resilience visualization.
+**[Environment Conditioned Transformer (ECT) — Viral Genomic Evolution](https://github.com/Nishant808/ECT)** · Python, PyTorch, Bioinformatics  
+Probabilistic ML framework integrating macroscopic ecological pressures (temperature, humidity, host-species reservoirs) with genomic sequences. Achieves 97.24% nucleotide accuracy vs. 21.74% Markov baseline. Production-ready pipeline with Monte Carlo trajectory engines and epistemic uncertainty quantification.
 
-**[LUAD Biomarker Discovery](https://github.com/Nishant808/LUAD-DEG)** · Python, DESeq2, TensorFlow, SHAP  
-RNA-seq analysis on 539 TCGA lung adenocarcinoma samples. Identified candidate biomarkers via differential expression and deep learning feature importance. KEGG/GO enrichment confirmed 400× overrepresentation in lipid metabolism pathways.
+**[LUAD Biomarker Discovery — RNA-seq Analysis](https://github.com/Nishant808/LUAD-DEG)** · Python, TensorFlow, DESeq2, SHAP  
+Analyzed 539 TCGA lung adenocarcinoma samples to identify cancer-specific biomarkers using deep learning and pathway enrichment. Neural networks captured complex gene interactions; SHAP interpreted predictions. Discovered 400× fold enrichment in lipid metabolism pathways with statistical validation across KEGG/GO databases.
 
-**[R&D Portfolio Optimization](https://github.com/Nishant808/Bio-Capital)** · Python, ILP, DCF Modeling  
-Quantitative decision-support framework for oncology asset allocation across 400,000+ clinical trial records. Applies Integer Linear Programming to maximize risk-adjusted NPV. Includes anomaly detection layer that corrected an enrollment arbitrage misclassification, achieving 140% risk-adjusted ROI in simulation.
+**[NetFragile — Biological Network Robustness Simulator](https://github.com/Nishant808/NetFragile)** · Python, NetworkX, Plotly/Dash  
+Interactive web application simulating targeted vs. random attacks on protein-protein interaction networks. Fetches STRING database for real biological networks, identifies drug target candidates via centrality analysis. Demonstrated hub-targeting collapses *M. tuberculosis* mycothiol pathway 3× faster than random removal — enabling precision drug discovery workflows.
 
 ---
 
@@ -57,4 +57,4 @@ Quantitative decision-support framework for oncology asset allocation across 400
 
 ---
 
-*German B1 → B2 in progress.*
+*German A2 → B1 in progress.*
