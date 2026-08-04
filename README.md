@@ -19,9 +19,6 @@ Currently targeting bioprocess data science, bioinformatics, and biomedical ML r
 **[Bioprocess Digital Twin — Temporal Glucose Prediction with LSTM](https://github.com/Nishant808/Bioprocess-Digital-Twin-Temporal-Glucose-Prediction-with-LSTM)** · Python, PyTorch, Scikit-learn  
 Deep learning pipeline for bioreactor monitoring. LSTM model predicts glucose concentration from real-time sensor data (DO, pH, temperature). Includes systematic optimization experiments, MPS hardware acceleration, and failure surface mapping for bioprocess regression tasks.
 
-**[Environment Conditioned Transformer (ECT) — Viral Genomic Evolution](https://github.com/Nishant808/ECT)** · Python, PyTorch, Bioinformatics  
-Probabilistic ML framework integrating macroscopic ecological pressures (temperature, humidity, host-species reservoirs) with genomic sequences. Achieves 97.24% nucleotide accuracy vs. 21.74% Markov baseline. Production-ready pipeline with Monte Carlo trajectory engines and epistemic uncertainty quantification.
-
 **[LUAD Biomarker Discovery — RNA-seq Analysis](https://github.com/Nishant808/LUAD-DEG)** · Python, TensorFlow, DESeq2, SHAP  
 Analyzed 539 TCGA lung adenocarcinoma samples to identify cancer-specific biomarkers using deep learning and pathway enrichment. Neural networks captured complex gene interactions; SHAP interpreted predictions. Discovered 400× fold enrichment in lipid metabolism pathways with statistical validation across KEGG/GO databases.
 
