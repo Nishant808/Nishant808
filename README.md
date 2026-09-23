@@ -1,6 +1,6 @@
 # Nishant Thalwal
 **M.Sc. Life Science Informatics · TH Deggendorf, Germany**  
-Computational Biology | Biomedical Data Science | ML for Pharma & Digital Health
+Computational Biology · Single-Cell Genomics · Applied ML
 
 [Email](mailto:nishant.thalwal@stud.th-deg.de) · [LinkedIn](https://www.linkedin.com/in/nishant-thalwal/) · [Portfolio](https://nishant-thalwal.lovable.app)
 
@@ -8,16 +8,16 @@ Computational Biology | Biomedical Data Science | ML for Pharma & Digital Health
 
 ## About
 
-I build ML pipelines and computational analysis tools at the intersection of biology, deep learning, and clinical data. My work spans transcriptomics, biological network modelling, and quantitative bioprocess analytics.
+I apply statistical and machine learning methods to biological data, with a focus on single-cell and transcriptomic analysis. My approach is deliberately first-principles: validating computational findings against independent ground truth rather than treating a pipeline's output as the answer.
 
-Currently targeting bioprocess data science, bioinformatics, and biomedical ML roles in pharma and digital health in Germany.
+Currently targeting computational biology and bioinformatics roles in Germany and the wider EU, with a specific interest in single-cell and spatial omics.
 
 ---
 
 ## Featured Projects
 
 **[Single-Cell Transcriptomic Analysis of Colorectal Cancer](https://github.com/Nishant808/crc-single-cell-analysis)** · R, Seurat, SCTransform, DESeq2  
-Analyzed 63,689 single-cell transcriptomes across 23 CRC patients (GEO: GSE132465) — QC, clustering into 25 populations, and manual marker-based cell-type annotation validated against held-out published ground truth (97.1% concordance). Pseudobulk differential expression and cell-type composition analysis (tumor vs. normal) identified a specific immune signature: T cells show transcriptional reprogramming without proportional shift, while myeloid cells show genuine infiltration — both compositional and transcriptional.
+End-to-end single-cell analysis of 63,689 transcriptomes across 23 CRC patients (GEO: GSE132465), built around a deliberate validation discipline: cell-type annotation was performed entirely from first principles — marker-gene reasoning cross-referenced against CellMarker 2.0, PanglaoDB, and a tissue-matched reference atlas — with the dataset's own published labels held out and untouched until annotation was complete. Result: 97.1% independent concordance with ground truth, with every disagreement investigated and resolved rather than discarded. Differential expression (tumor vs. normal) was run as pseudobulk, aggregated to the patient level specifically to avoid pseudoreplication, surfacing a literature-validated CAF signature (INHBA, SULF1) and a composition analysis showing T-cell transcriptional reprogramming without infiltration, alongside genuine myeloid recruitment.
 
 **[Bioprocess Digital Twin — Temporal Glucose Prediction with LSTM](https://github.com/Nishant808/Bioprocess-Digital-Twin-Temporal-Glucose-Prediction-with-LSTM)** · Python, PyTorch, Scikit-learn  
 Deep learning pipeline for bioreactor monitoring. LSTM model predicts glucose concentration from real-time sensor data (DO, pH, temperature). Includes systematic optimization experiments, MPS hardware acceleration, and failure surface mapping for bioprocess regression tasks.
