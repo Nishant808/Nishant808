@@ -8,7 +8,7 @@ Computational Biology · Single-Cell Genomics · Applied ML
 
 ## About
 
-I apply statistical and machine learning methods to biological data, with a focus on single-cell and transcriptomic analysis. My approach is deliberately first-principles: validating computational findings against independent ground truth rather than treating a pipeline's output as the answer.
+I apply statistical and machine learning methods to biological data, with a focus on single-cell and transcriptomic analysis. Keen on expanding towards quantitative omic/biology.
 
 Currently targeting computational biology and bioinformatics roles in Germany and the wider EU, with a specific interest in single-cell and spatial omics.
 
